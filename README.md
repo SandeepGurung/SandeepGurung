@@ -51,20 +51,17 @@
 <!-- ==============counter============ -->
 <p align="center"><img src="https://profile-counter.glitch.me/{SandeepGurung}/count.svg"></p>
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-My name is Kailash.I'm the first year student of BSC.CSIT and iam currently doing my bachelors from Ngarjuna  College of Information Technology.
-i have keen intrest in web designing and software development.
-When I first started programming I wanted to learnProgramming applications . My goal was for it to function similar to the Scratch programming language and complete it in time for my first year as a Physics and Astronomy student at the Tribhuwan University.
-Most recently I learned a lot about business and finance to help our growing company.
+My name is Sandeep.
 # Contact me
 <br/>
 <p align="center">
   <a href="mailto:sandeepgrg444@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com.com/kai_bad_1">
+  <a href="https://www.instagram.com/sandisafk/">
     <img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com.com/badukailash001">
+  <a href="">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
